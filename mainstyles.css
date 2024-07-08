@@ -36,6 +36,11 @@ header h1 span{
     font-family: "Dancing Script", cursive;
 }
 
+/*Added header img to control image size.   Use grid to control locations*/
+header img {
+    width: 50%;
+    height: 50%;
+}
 body {
     /* Temporarily removing background image of Daiquiri TOGO
     background-image: url("images/daiquiri_togo_name.png");
