@@ -37,7 +37,10 @@ header h1 span{
 }
 
 body {
+    /* Temporarily removing background image of Daiquiri TOGO
     background-image: url("images/daiquiri_togo_name.png");
+    */
+    background-color: black;
 
     font-family: "Josefin Sans", sans-serif;
     display: flex;
